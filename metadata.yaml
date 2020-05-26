@@ -1,0 +1,26 @@
+_repo: Space-Oasis_62186
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gallun, Raymond Z.
+    aliases:
+    - Gallun, Raymond Z. (Raymond Zinke)
+    - Gallun, Raymond Zinke
+    birthdate: 1911
+    deathdate: 1994
+    gutenberg_agent_id: '28382'
+    url: http://www.gutenberg.org/2009/agents/28382
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_Z._Gallun
+description: ''
+gutenberg_issued: '2020-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Space Oasis
+url: http://www.gutenberg.org/ebooks/62186
