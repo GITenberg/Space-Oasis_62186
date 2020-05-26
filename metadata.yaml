@@ -1,5 +1,8 @@
 _repo: Space-Oasis_62186
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62186-h/images/cover.jpg
 creator:
   author:
     agent_name: Gallun, Raymond Z.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28382
     wikipedia: http://en.wikipedia.org/wiki/Raymond_Z._Gallun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62186#Space-Oasis
 gutenberg_issued: '2020-05-21'
 gutenberg_type: Text
 identifiers:
